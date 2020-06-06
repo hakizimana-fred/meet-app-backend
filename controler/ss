@@ -1,0 +1,10 @@
+.product
+                        .product-img
+                            img(src="/images/1.jpg")
+                            .product-label
+                                span.sale Verified
+                        .product-body
+                            p.product-category Category
+                            h3.product-name name
+                            h4.price Entebbe
+                            button.btn.btn-success.btn-block call
